@@ -1,0 +1,14 @@
+{
+  "key": "pointers-v13",
+  "name": "pointers-v13",
+  "title": "Pointers v13",
+  "description": "Pointer and ping module updated for Foundry VTT v13 and Forge, with multiplayer pointer support.",
+  "version": "1.0.0",
+  "author": "xaukael / ep23125-boop",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "13",
+  "esmodules": ["pointers.js"],
+  "url": "https://github.com/ep23125-boop/Pointers-v13-test",
+  "manifest": "https://raw.githubusercontent.com/ep23125-boop/Pointers-v13-test/main/pointers-v13-test/module.json",
+  "download": "https://github.com/ep23125-boop/Pointers-v13-test/archive/refs/heads/main.zip"
+}
