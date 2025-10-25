@@ -9,6 +9,6 @@
   "compatibleCoreVersion": "13",
   "esmodules": ["pointers.js"],
   "url": "https://github.com/ep23125-boop/Pointers-v13-test",
-  "manifest": "https://raw.githubusercontent.com/ep23125-boop/Pointers-v13-test/main/pointers-v13-test/module.json",
+  "manifest": "https://raw.githubusercontent.com/ep23125-boop/Pointers-v13-test/main/pointers-v13/module.json",
   "download": "https://github.com/ep23125-boop/Pointers-v13-test/archive/refs/heads/main.zip"
 }
